@@ -1,0 +1,1 @@
+{"main":[{"address":"/main/position","valtype":"f3","valmin":-10,"valmax":10,"factornum":3}]}
