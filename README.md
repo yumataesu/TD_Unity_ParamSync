@@ -5,7 +5,7 @@ Automatic generation of TouchDesigner UI based on Unity parameters and manipulat
 
 
 ## Touch Designer
-* Tested on 2021 (2022 may be fine)
+* Tested on 2021 (2022 should be fine)
 
 
 ## Unity
